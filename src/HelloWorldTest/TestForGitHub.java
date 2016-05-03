@@ -8,7 +8,7 @@ public class TestForGitHub {
 	{
 		AdditionalClass hello = new AdditionalClass();
 		hello.passString();
-		System.out.println("Test Lang"+"\n"+"Irvin");
+		System.out.println("Test Lang"+"\n"+"Irvin"+"\n"+"Hello Git from earbean");
 	}
 
 }
